@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianci Xue (薛天赐)"
-description              : "A graduate student at Nanjing University. Focusing on NLP."
+description              : "A PhD student at The Ohio State University(OSU)."
 repository               : "xuetianci/xuetianci.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,6 @@ author:
   name             : "Tianci Xue (薛天赐)"
   avatar           : "images/my_photo.jpg"
   bio              : #"Bytedance AI Lab"
-  location         : "Hubei Province, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wVFSbzkAAAAJ&hl=en"
