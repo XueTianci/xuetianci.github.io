@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/Online-Mind2Web.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Illusion of Progress? Assessing the Current State of WebAgents](https://openreview.net/pdf?id=7uySifrWkjc) \\
+[An Illusion of Progress? Assessing the Current State of WebAgents](https://arxiv.org/abs/2504.01382) \\
 **Tianci Xue**, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song, Huan Sun, Yu Su
 
   - Online-Mind2Web, an online evaluation benchmark consisting of 300 diverse and realistic tasks spanning 136 websites.  We conduct the first comprehensive comparative analysis of current web agents under a setting that approximates how real users use these agents.
