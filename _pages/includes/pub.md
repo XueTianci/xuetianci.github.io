@@ -9,7 +9,7 @@
 
   - Online-Mind2Web, an online evaluation benchmark consisting of 300 diverse and realistic tasks spanning 136 websites.  We conduct the first comprehensive comparative analysis of current web agents under a setting that approximates how real users use these agents.
 
-  <a href="https://tiancixue.notion.site/An-Illusion-of-Progress-Assessing-the-Current-State-of-Web-Agents-1ac6cd2b9aac80719cd6f68374aaf4b4?pvs=4">📃 Blog</a> | <a href="https://huggingface.co/spaces/osunlp/Online_Mind2Web_Leaderboard" >🏆 Leaderboard</a> | <a href="https://huggingface.co/datasets/osunlp/Online-Mind2Web" >🤗 Data</a> | <a href="https://x.com/xue_tianci/status/1904686135378325901" >🕊️ Twitter</a>
+  <a href="https://tiancixue.notion.site/An-Illusion-of-Progress-Assessing-the-Current-State-of-Web-Agents-1ac6cd2b9aac80719cd6f68374aaf4b4?pvs=4">📃 Blog</a> | <a href="https://huggingface.co/spaces/osunlp/Online_Mind2Web_Leaderboard" >🏆 Leaderboard</a> | <a href="https://huggingface.co/datasets/osunlp/Online-Mind2Web" >🤗 Data</a> | <a href="https://x.com/xue_tianci/status/1904686135378325901" >🕊️ Twitter</a> | <a href="https://github.com/OSU-NLP-Group/Online-Mind2Web" >🛠️ Code</a>
 </div>
 </div>
 
