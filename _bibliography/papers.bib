@@ -3,13 +3,16 @@
 
 @string{aps = {American Physical Society,}}
 
-@article{xue2025illusion,
+@inprocessdings{xue2025illusion,
   title={An illusion of progress? assessing the current state of web agents},
   author={Xue, Tianci and Qi, Weijian and Shi, Tianneng and Song, Chan Hee and Gou, Boyu and Song, Dawn and Sun, Huan and Su, Yu},
-  journal={arXiv preprint arXiv:2504.01382},
+  booktitle={First Conference on Language Modeling},
   year={2025},
   selected={true},
+  pdf = {https://arxiv.org/abs/2504.01382},
   dimensions={true},
+  code={https://github.com/OSU-NLP-Group/Online-Mind2Web},
+  bibtex_show={true},
 }
 
 @article{xue2023rcot,
@@ -19,6 +22,7 @@
   year={2023},
   selected={true},
   dimensions={true},
+  bibtex_show={true},
 }
 
 @inproceedings{xue-etal-2024-pacit,
@@ -34,9 +38,13 @@
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
     month = aug,
     year = "2024",
+    selected={true},
+    bibtex_show={true},
+    code={https://github.com/XueTianci/PACIT},
     address = "Bangkok, Thailand",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.findings-acl.36/",
+    pdf = {https://aclanthology.org/2024.findings-acl.36/},
     doi = "10.18653/v1/2024.findings-acl.36",
     pages = "654--665",
     abstract = "Instruction tuning enhances the instruction following ability of large language models by finetuning with supervised instruction data. Previous work proposes in-context instruction tuning (ICIT) where specific positive or negative examples are incorporated into the prompt for better performance. In this work, we propose PACIT, a simple and effective in-context instruction tuning method, inspired by the pedagogical concept of desirable difficulty. The PACIT method unlocks the power of examples by encouraging the model to actively learn to grasp the distinctions between the positive and negative examples instead of merely reading. The model is expected to first verify the correctness of the provided example according to the task description, which is then set as the condition for generating a better response to the task instance. Our extensive experiments prove the effectiveness of PACIT, outperforming ICIT baseline on both in-domain and out-domain tasks up to 9.16 and 3.14 average ROUGE-L scores, respectively. Moreover, PACIT can notably enhance the performance of instruction tuning even when all positive and negative examples are generated with a self-instruct method."
