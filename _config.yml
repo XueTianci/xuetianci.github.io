@@ -339,6 +339,11 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+    - _pages/blog.md
+    - _posts/
+    - _projects/?_project.md
+    - _pages/cv.md
+    - _pages/repositories.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images

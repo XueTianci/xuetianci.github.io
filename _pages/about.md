@@ -19,10 +19,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi, nice to e-meet you! I am a first-year PhD student at Ohio State University(OSU), advised by [Prof. Huan Sun](https://u.osu.edu/ihudas/people/) and working closely with [Prof. Yu Su](https://ysu1989.github.io/). I obtained my master's degree from Nanjing University. Previously, I was also a research intern at [Blender NLP](https://blender.cs.illinois.edu/), UIUC, working with Prof. [Heng Ji](https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en).
