@@ -440,15 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-online-mind2web-has-been-accepted-to-colm-2025-see-you-in-montreal",
+            },},{id: "news-online-mind2web-has-been-accepted-to-colm-2025-see-you-in-montreal",
           title: '🎉 Online-Mind2Web has been accepted to COLM 2025! See you in Montreal!🍁',
           description: "",
           section: "News",},{id: "projects-project-1",
