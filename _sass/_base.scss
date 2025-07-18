@@ -1423,3 +1423,26 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// Education
+.education {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  h2 {
+    margin-bottom: 1rem;
+    span {
+      font-size: 1.5rem;
+    }
+  }
+
+  .eduimg{
+    margin-left: 1rem;
+    float: left;
+    width: 70px;
+    margin-right: 2rem;
+  }
+
+  .edutext {
+    height: 85px;
+  }
+}
