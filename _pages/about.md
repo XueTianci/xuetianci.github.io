@@ -31,4 +31,9 @@ educations:
 
 Hi, nice to e-meet you! I am a first-year PhD student at Ohio State University(OSU), advised by [Prof. Huan Sun](https://u.osu.edu/ihudas/people/) and working closely with [Prof. Yu Su](https://ysu1989.github.io/). I obtained my master's degree from Nanjing University. Previously, I was also a research intern at [Blender NLP](https://blender.cs.illinois.edu/), UIUC, working with [Prof. Heng Ji](https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en).
 
-My research interests primarily lie in agents and reasoning. Specifically, I am interested in improving and developing powerful web agents that can interact with online environments to effectively solve various real-world tasks, as well as enhancing reasoning abilities such as R1-style reasoning and long Chain-of-Thought.
+My research goal is to develop an AI system that empowers humans to better adapt to, understand, and explore this magical world. 
+
+I have broad interests in large language models (LLMs), large multimodal models(LMMs) and related fields.
+Recently, I've been focusing on language agents and reasoning. I'm particularly interested in steering LLMs toward self-learning and self-exploration in the wild, with the ultimate goal of achieving expert-level performance in specific domains.
+
+Feel free to reach out if you are interested in my research or would like to discuss other research topics further.
