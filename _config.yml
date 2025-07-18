@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Tianci Xue # the website title (if blank, full name will be used instead)
+title: Tianci Xue (薛天赐) # the website title (if blank, full name will be used instead)
 first_name: Tianci
 middle_name: 
 last_name: Xue
@@ -191,6 +191,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _posts/
+  - _projects/?_project.md
+  - _pages/cv.md
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -341,11 +346,6 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-    - _pages/blog.md
-    - _posts/
-    - _projects/?_project.md
-    - _pages/cv.md
-    - _pages/repositories.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
