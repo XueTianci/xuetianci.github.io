@@ -31,6 +31,9 @@ ninja.data = [{
             },},{id: "news-online-mind2web-has-been-accepted-to-colm-2025-see-you-in-montreal",
           title: '🎉 Online-Mind2Web has been accepted to COLM 2025! See you in Montreal!🍁',
           description: "",
+          section: "News",},{id: "news-excited-to-share-our-latest-work-early-experience-where-agents-learn-from-their-own-experience-via-implicit-world-modeling-and-self-reflection-a-reward-free-and-scalable-paradigm",
+          title: '🎉 Excited to share our latest work “Early Experience”, where agents learn from...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
