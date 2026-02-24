@@ -28,11 +28,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-online-mind2web-has-been-accepted-to-colm-2025-see-you-in-montreal",
+            },},{id: "news-excited-to-share-our-latest-work-early-experience-where-agents-learn-from-their-own-experience-via-implicit-world-modeling-and-self-reflection-a-reward-free-and-scalable-paradigm",
+          title: '🎉 Excited to share our latest work “Early Experience”, where agents learn from...',
+          description: "",
+          section: "News",},{id: "news-online-mind2web-has-been-accepted-to-colm-2025-see-you-in-montreal",
           title: '🎉 Online-Mind2Web has been accepted to COLM 2025! See you in Montreal!🍁',
           description: "",
-          section: "News",},{id: "news-excited-to-share-our-latest-work-early-experience-where-agents-learn-from-their-own-experience-via-implicit-world-modeling-and-self-reflection-a-reward-free-and-scalable-paradigm",
-          title: '🎉 Excited to share our latest work “Early Experience”, where agents learn from...',
+          section: "News",},{id: "news-excited-to-share-our-latest-work-acurl-an-autonomous-curriculum-reinforcement-learning-framework-that-enables-fully-autonomous-continual-learning-for-computer-use-agents-with-zero-human-data",
+          title: '🎉 Excited to share our latest work, ACuRL — an Autonomous Curriculum Reinforcement...',
           description: "",
           section: "News",},{
       id: 'light-theme',
