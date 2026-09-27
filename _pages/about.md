@@ -29,7 +29,7 @@ educations:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, nice to e-meet you! I am a first-year PhD student at Ohio State University(OSU), advised by [Prof. Huan Sun](https://u.osu.edu/ihudas/people/) and working closely with [Prof. Yu Su](https://ysu1989.github.io/). I obtained my master's degree from Nanjing University. Previously, I was also a research intern at [Blender NLP](https://blender.cs.illinois.edu/), UIUC, working with [Prof. Heng Ji](https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en).
+Hi, nice to e-meet you! I am a second-year PhD student at Ohio State University(OSU), advised by [Prof. Huan Sun](https://u.osu.edu/ihudas/people/) and working closely with [Prof. Yu Su](https://ysu1989.github.io/). I obtained my master's degree from Nanjing University. Previously, I was also a research intern at [Blender NLP](https://blender.cs.illinois.edu/), UIUC, working with [Prof. Heng Ji](https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en).
 
 My research goal is to develop an AI system that empowers humans to better adapt to, understand, and explore this magical world. 
 
