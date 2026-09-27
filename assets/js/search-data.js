@@ -37,6 +37,12 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-our-latest-work-acurl-an-autonomous-curriculum-reinforcement-learning-framework-that-enables-fully-autonomous-continual-learning-for-computer-use-agents-with-zero-human-data",
           title: '🎉 Excited to share our latest work, ACuRL — an Autonomous Curriculum Reinforcement...',
           description: "",
+          section: "News",},{id: "news-excited-to-join-microsoft-for-a-summer-internship",
+          title: '🎉 Excited to join Microsoft for a summer internship!',
+          description: "",
+          section: "News",},{id: "news-acurl-has-been-accepted-to-neurips-2026",
+          title: '🎉 ACuRL has been accepted to NeurIPS 2026!',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
